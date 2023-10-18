@@ -1,6 +1,6 @@
 Hi,
 
-The following projects automate weekly analytics reporting kepping in mind where files need to be saved and what naming conventions need to be used.
+The following projects (each file is a seprate project) automate weekly analytics reporting kepping in mind where files need to be saved and what naming conventions need to be used.
 
 The following three modules are used extensively
 
